@@ -1,0 +1,7 @@
+﻿  ConsoleApplication4.cpp
+c:\users\kpshi\desktop\programming\mmanager\consoleapplication4\consoleapplication4.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\kpshi\desktop\programming\mmanager\consoleapplication4\consoleapplication4.cpp(179): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\kpshi\desktop\programming\mmanager\consoleapplication4\consoleapplication4.cpp(207): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\kpshi\desktop\programming\mmanager\consoleapplication4\consoleapplication4.cpp(308): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\kpshi\desktop\programming\mmanager\consoleapplication4\consoleapplication4.cpp(332): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  ConsoleApplication4.vcxproj -> C:\Users\KPSHi\Desktop\programming\MManager\Debug\ConsoleApplication4.exe
